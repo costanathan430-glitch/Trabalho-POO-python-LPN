@@ -44,5 +44,6 @@ classDiagram
 
 ## Equipe
 <!-- Aqui você coloca seu nome e link para o perfil -->
+[Nathan](https://github.com/costanathan430-glitch)
 [R. Araujo](https://github.com/araujorayza)
-[R. Araujo](https://github.com/arauj0r)
+
